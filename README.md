@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m a **full stack developer** working at **S4DS** (Java)
 - 🌱 I’m currently learning **React** and **NodeJS**
 - 📖 I’m currently studying at **Politecnico Jaime Isaza Cadavid** the career of **Tecnología en Sistematización de Datos**
-  - University Github Account [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosMatiz2) 
+  - University Github Account: [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosMatiz2) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-alejandro) 
