@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-- 🔭 I’m a full stack developer
-- 🌱 I’m currently learning React and NodeJS
+- 🔭 I’m a **full stack developer** working at **S4DS** (Java)
+- 🌱 I’m currently learning **React** and **NodeJS**
+- 📖 I’m currently studying at **Politecnico Jaime Isaza Cadavid** the career of **Tecnología en Sistematización de Datos**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-alejandro) 
