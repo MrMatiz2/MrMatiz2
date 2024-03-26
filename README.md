@@ -1,14 +1,14 @@
 Hi 👋 My name is Carlos Bolaños
 ===============================
 
-Web Developer
+Java Developer
 -------------
 
 Passionate about programming and technology
 
 *   🌍 I'm based in Medellín, Colombia
-*   🔭 I'm a **Developer Analyst** working at **S4DS**
-*   🧠 I'm learning **React** and **TypeScript**
+*   🔭 I'm a **Java Developer Analyst** working at **S4DS**
+*   🧠 I'm learning **Spring Boot**
 *   📖 I'm currently studying at **Politecnico Jaime Isaza Cadavid** the career of **Tecnología en Sistematización de Datos**
 
 ### Skills 
